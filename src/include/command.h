@@ -1,0 +1,1 @@
+void command(char cmd[80]);

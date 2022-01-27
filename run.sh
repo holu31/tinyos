@@ -1,0 +1,1 @@
+qemu-system-i386 -m 32 -cdrom kernel.iso -monitor stdio -no-reboot 
